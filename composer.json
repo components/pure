@@ -1,0 +1,14 @@
+{
+  "name": "components/pure",
+  "description": "Shim repository for Pure.",
+  "homepage": "http://github.com/components/pure",
+  "license": "BSD-3-Clause",
+  "type": "component",
+  "extra": {
+    "component": {
+      "styles": [
+        "pure.css"
+      ]
+    }
+  }
+}
